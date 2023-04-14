@@ -2,6 +2,14 @@
 name = "bucket"
 version = "0.1.0"
 edition = "2021"
+authors = ["yang.dai2020@gmail.com"]
+license = "MIT OR Apache-2.0"
+description = "A tool to view files in s3"
+readme = "README.md"
+homepage = "https://yang.dai.info"
+repository = "https://github.com/ydai713/s3-cli"
+keywords = ["cli", "s3"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
