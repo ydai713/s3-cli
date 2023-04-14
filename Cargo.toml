@@ -1,5 +1,5 @@
 [package]
-name = "bucket"
+name = "s3c"
 version = "0.1.0"
 edition = "2021"
 authors = ["yang.dai2020@gmail.com"]
